@@ -29,7 +29,7 @@ navLink.forEach((n) => n.addEventListener("click", linkAction));
 const sr = ScrollReveal({
   origin: "top",
   distance: "80px",
-  duration: 2000,
+  duration: 1700,
   reset: true,
 });
 
@@ -51,7 +51,7 @@ sr.reveal(".skills__data", { interval: 200 });
 sr.reveal(".skills__img", { delay: 600 });
 
 /*Scroll trabajo*/
-sr.reveal(".work__img", { interval: 200 });
+sr.reveal(".work__img", { interval: 50 });
 
 /*Scroll contacto*/
 sr.reveal(".contact__input", { interval: 200 });
