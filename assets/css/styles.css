@@ -725,6 +725,10 @@ body.dark .home__social-icon:hover {
 .download svg line {
   animation: docs 1s infinite;
 }
+.link {
+  text-decoration: none;
+  color: #fff;
+}
 
 @keyframes docs {
   0% {
