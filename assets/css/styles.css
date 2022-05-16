@@ -550,7 +550,7 @@ body.dark .home__social-icon:hover {
     padding-bottom: 2.5rem;
     flex-direction: row;
     align-self: flex-end;
-    margin-top: 27px;
+    margin-top: 32px;
   }
   .home__social-icon {
     margin-bottom: 0;
@@ -739,3 +739,4 @@ body.dark .home__social-icon:hover {
     transform: translateY(0%);
   }
 }
+/*asas*/
